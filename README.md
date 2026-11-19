@@ -2,7 +2,7 @@
 
 ---
 
-## 🇸🇪 Svenska
+##  Svenska
 
 **Franonimizer** är ett helt offline-baserat verktyg för att anonymisera dokument och bilder enligt GDPR. Ingen data skickas till internet – all bearbetning sker lokalt på din Mac.
 
@@ -29,7 +29,7 @@ Eftersom programmet är egenutvecklat utan Apple-signatur kan macOS blockera det
 
 ---
 
-## 🇬🇧 English
+##  English
 
 **Franonimizer** is a 100% offline desktop tool for GDPR-compliant document and image anonymization. No data leaves your computer – all processing happens locally on your Mac.
 
@@ -56,7 +56,7 @@ Because this is an in-house app without an Apple developer signature, macOS may 
 
 ---
 
-## 🇭🇺 Magyar
+##  Magyar
 
 A **Franonimizer** egy 100%-ban offline működő asztali alkalmazás dokumentumok és képek GDPR-megfelelő anonimizálásához. Semmilyen adat nem kerül fel az internetre – minden feldolgozás helyben, a Mac-en történik.
 
